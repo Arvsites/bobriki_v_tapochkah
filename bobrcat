@@ -1,4 +1,5 @@
-import json, pyaudio #https://www.youtube.com/watch?v=XF2WVUVxAGQ&ab_channel=DimPy
+#https://www.youtube.com/watch?v=XF2WVUVxAGQ&ab_channel=DimPy
+import json, pyaudio 
 from vosk import Model, KaldiRecognizer
 import pyttsx3
 engine = pyttsx3.init()
